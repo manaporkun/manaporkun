@@ -9,5 +9,4 @@ I'm always eager to take on new challenges and learn something new, whether it's
 📫 How to reach me:
 
 * <a href="https://www.linkedin.com/in/manaporkun/">LinkedIn</a>
-* <a href="https://twitter.com/OrkunManap">Twitter</a>
 * <a href="https://www.youtube.com/channel/UCuq1u5RRFyS6ga82dl65WQQ">Youtube</a>

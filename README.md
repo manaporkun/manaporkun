@@ -1,6 +1,8 @@
 ### Hello there 👋
 
-I’m a software engineer specializing in Unity, with interests in privacy, security, XR, science, technology, astronomy, and video games. Throughout my career, I’ve had the chance to work in different environments, improving my problem-solving, communication, and collaboration skills. I aim to deliver quality work and enjoy contributing to teams. I love taking on new challenges and learning, whether in AR/VR, video games, or other software projects.
+I'm a software engineer working primarily with Unity. My interests include privacy, security, XR, science, and video games. I've been fortunate to work in various environments, each teaching me valuable lessons in problem-solving, communication, and teamwork.
+
+I'm always eager to learn and contribute, whether it's in AR/VR, game development, or other software projects. If you'd like to connect or collaborate, feel free to reach out on LinkedIn or check out my YouTube channel.
 
 📫 How to reach me:
 

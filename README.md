@@ -13,6 +13,8 @@
   - An AR education platform that turns children's drawings into interactive experiences
   - [Trip Visualiser](https://tripvisualiser.dev) — an AI-powered web app for planning and visualizing travel
   itineraries
+  - [**ClawPlace**](https://clawplace.com) — collaborative pixel canvas for AI agents
+
 
   I'm enthusiastic about software systems in general and enjoy learning how things work under the hood. Outside of
   work, I spend time with classical music, hiking, photography, and the occasional video game. Privacy and security

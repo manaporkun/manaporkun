@@ -8,8 +8,8 @@
 
   ### Open Source
 
-  - [**UnityRuntimeTransformHandles**](https://github.com/manaporkun/UnityRuntimeTransformHandles) — Runtime transform handles for Unity ![GitHub stars](https://img.shields.io/github/stars/manaporkun/UnityRuntimeTransformHandles?style=flat&label=%E2%AD%90)
-  - [**Automatic-LOD-Generator**](https://github.com/manaporkun/Automatic-LOD-Generator) — Auto LOD group generation & mesh simplification for Unity ![GitHub stars](https://img.shields.io/github/stars/manaporkun/Automatic-LOD-Generator?style=flat&label=%E2%AD%90)
+  - [**UnityRuntimeTransformHandles**](https://github.com/manaporkun/UnityRuntimeTransformHandles) — Runtime transform handles for Unity
+  - [**Automatic-LOD-Generator**](https://github.com/manaporkun/Automatic-LOD-Generator) — Auto LOD group generation & mesh simplification for Unity
   - [**JoyMapKit**](https://github.com/manaporkun/JoyMapKit) — macOS gamepad-to-keyboard/mouse mapper with SwiftUI menu bar app
   - [**claude-plugins**](https://github.com/manaporkun/claude-plugins) — Structured task workflow skill for Claude Code
 

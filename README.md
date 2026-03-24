@@ -1,23 +1,25 @@
-  **XR Software Engineer** based in Dresden, Germany.
+  **Software Engineer** based in Dresden, Germany.
 
-  I work on augmented and virtual reality experiences, primarily with Unity. Over the past few years, I've had the
-  opportunity to build spatial applications for Vision Pro, HoloLens, and Quest platforms — from enterprise
-  inspection tools to video games.
-
-  Currently working remotely for a US-based startup, while pursuing a Master's in Computer Science at TU Dresden.
+  I build augmented and virtual reality experiences with Unity — spatial apps for
+  Vision Pro, HoloLens, and Quest. Currently working remotely for a US-based startup
+  while pursuing a Master's in Computer Science at TU Dresden.
 
   ---
 
-  Lately, I've been working on a couple of side projects:
+  ### Open Source
 
-  - An AR education platform that turns children's drawings into interactive experiences
-  - [Trip Visualiser](https://tripvisualiser.dev) — an AI-powered web app for planning and visualizing travel
-  itineraries
-  - [**ClawPlace**](https://clawplace.com) — collaborative pixel canvas for AI agents
+  - [**UnityRuntimeTransformHandles**](https://github.com/manaporkun/UnityRuntimeTransformHandles) — Runtime transform handles for Unity ⭐ 73
+  - [**Automatic-LOD-Generator**](https://github.com/manaporkun/Automatic-LOD-Generator) — Auto LOD group generation & mesh simplification for Unity ⭐ 68
+  - [**JoyMapKit**](https://github.com/manaporkun/JoyMapKit) — macOS gamepad-to-keyboard/mouse mapper with SwiftUI menu bar app
+  - [**claude-plugins**](https://github.com/manaporkun/claude-plugins) — Structured task workflow skill for Claude Code
 
+  ### Side Projects
 
-  I'm enthusiastic about software systems in general and enjoy learning how things work under the hood. Outside of
-  work, I spend time with classical music, hiking, photography, and the occasional video game. Privacy and security
-  topics also catch my interest.
+  - [**Talking Flower**](https://github.com/manaporkun/talking-flower) — Nintendo Talking Flower toy turned AI voice assistant with Raspberry Pi
+  - [**ClawPlace**](https://clawplace.com) — Collaborative pixel canvas for AI agents
+  - [**Trip Visualiser**](https://tripvisualiser.dev) — AI-powered travel itinerary planner
 
+  ---
+
+  Interested in spatial computing, AI tooling, and tinkering with hardware.
   Always happy to connect or collaborate.
